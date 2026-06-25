@@ -1,0 +1,6 @@
+{
+  "name": "Coucou Nest",
+  "description": "An offline-optimized, desktop-first coding sandbox and Socratic assistant, integrating step-by-step logic playgrounds with an Ollama-inspired companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
